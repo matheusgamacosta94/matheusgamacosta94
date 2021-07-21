@@ -1,8 +1,0 @@
-title: Matheus Gama Costa # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  I am a Ph.D. student in Biomedical Engineering. My focus is on solving medical problems through Data Engineering, Data Science, and Machine Learning.
-  <br><br>
-  <a https://linkedin.com/in/matheus-gama-costa/">View My LinkedIn Profile</a> 
-  
-theme: jekyll-theme-minimal
