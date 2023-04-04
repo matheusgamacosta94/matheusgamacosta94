@@ -5,6 +5,6 @@
 
 ### I am a Ph.D. student in Biomedical Engineering. My focus is on solving medical problems through Data Engineering, Data Science, and Machine Learning.
 
-- 🌱 I am passionate about technology, development, and application of data science in various areas of healthcare and medicine.
+- 🌱 I am passionate about technology, development, and data science application in healthcare and medicine.
 
 
